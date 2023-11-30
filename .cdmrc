@@ -1,2 +1,2 @@
 tabs: ["src/index.js"]
-terminals: ["npm install && npm run start"]
+terminals: ["bun i && npm run start"]
