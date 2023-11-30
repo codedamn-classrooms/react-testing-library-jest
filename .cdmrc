@@ -1,2 +1,3 @@
-tabs: ["package.json", "src/index.js"]
+tabs: ["src/__test__/Counter.test.js", "src/index.js"]
 terminals: ["bun i && npm run start"]
+run-button: npm test
