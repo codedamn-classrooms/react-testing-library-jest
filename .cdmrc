@@ -1,2 +1,3 @@
-tabs: ["src/index.js"]
-terminals: ["npm install && npm run start"]
+tabs: ["src/components/__test__/Header.test.js", "src/components/Header.js"]
+terminals: ["bun i && npm run start"]
+run-button: npm test
