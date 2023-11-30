@@ -1,2 +1,3 @@
-tabs: ["src/index.js"]
-terminals: ["npm install && npm run start"]
+tabs: ["src/pages/__test__/PageNotFound.test.js", "src/pages/PageNotFound.js"]
+terminals: ["bun i && npm run start"]
+run-button: npm test
